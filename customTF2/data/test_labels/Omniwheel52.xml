@@ -1,0 +1,26 @@
+<annotation>
+	<folder>scaled</folder>
+	<filename>Omniwheel52.jpg</filename>
+	<path>D:\GroupProject\CodeV4\scaled\Omniwheel52.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Omniwheel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>167</xmin>
+			<ymin>154</ymin>
+			<xmax>387</xmax>
+			<ymax>355</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Omniwheel167.jpg</filename>
+	<path>D:\OneDrive - Malta College of Arts, Science &amp; Technology\Desktop\robot\robot\images\Omniwheel167.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Omniwheel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>177</ymin>
+			<xmax>332</xmax>
+			<ymax>257</ymax>
+		</bndbox>
+	</object>
+</annotation>
